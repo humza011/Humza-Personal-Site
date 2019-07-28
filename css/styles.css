@@ -96,3 +96,9 @@ h3 {
   margin: 10px;
   color: white;
 }
+
+
+.end-container a{
+   cursor: pointer; 
+}
+
