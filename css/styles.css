@@ -97,6 +97,19 @@ h3 {
   color: white;
 }
 
+.my-notes{
+  background-color: #445c3c;
+  font-size: 25px;
+  padding: 20px;
+}
+
+.my-notes a{
+  font-size: 30px;
+  text-decoration: none;
+  padding: 10px;
+  margin: 10px;
+  color: white;
+}
 
 .end-container a{
    cursor: pointer; 
